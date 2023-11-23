@@ -14,6 +14,8 @@ updates:
       interval: "weekly"
     reviewers:
       - "martinbacon"
+    assignees:
+      - "martinbacon"
 
   - package-ecosystem: "github-actions"
     directory: "/"
@@ -21,4 +23,6 @@ updates:
       # Check for updates to GitHub Actions every weekday
       interval: "daily"
     reviewers:
+      - "martinbacon"
+    assignees:
       - "martinbacon"
