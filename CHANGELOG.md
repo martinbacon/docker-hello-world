@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/martinbacon/docker-hello-world/compare/v1.0.0...v1.0.1) (2023-11-23)
+
+
+### Miscellaneous Chores
+
+* release 1.0.1 ([f79506e](https://github.com/martinbacon/docker-hello-world/commit/f79506eacaf1d7820e33e29994bf3c8000654f81))
+
 ## 1.0.0 (2023-11-23)
 
 
