@@ -5,6 +5,8 @@ on:
       - main
       - master
   pull_request:
+  schedule:
+    - cron: '0 0 * * *'
 jobs:
   build:
     name: Build and Scan vulnerability
