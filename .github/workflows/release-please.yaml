@@ -1,4 +1,7 @@
 on:
+  push:
+    branches:
+      - master
   workflow_dispatch:
 
 permissions:
@@ -14,4 +17,4 @@ jobs:
         with:
           release-type: simple
           package-name: release-please-action
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
