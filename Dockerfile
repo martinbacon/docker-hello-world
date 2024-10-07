@@ -1,4 +1,4 @@
-FROM busybox:1.36
+FROM busybox:1.37
 ENV PORT=8000
 LABEL maintainer="Original Author: Chris <c@crccheck.com>, Forked by: martinbacon"
 
